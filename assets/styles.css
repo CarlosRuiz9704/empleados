@@ -1,0 +1,16 @@
+.container{
+    margin-top: 40px;
+}
+
+.titulo{
+    font-size: 14px;
+    text-align: right;
+    font-weight: bolder;
+}
+
+label.error {
+    color: red;
+    font-size: 1rem;
+    display: block;
+    margin-top: 5px;
+}
